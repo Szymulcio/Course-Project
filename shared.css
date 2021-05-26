@@ -8,9 +8,13 @@ body {
 }
 
 .main-header {
-  background-color: #2ddf5c;
-  padding: 8px 16px;
-  width: 100%;
+    width: 100%;
+    position: fixed;
+    background-color: #2ddf5c;
+    padding: 8px 16px;
+    z-index: 1;
+    top: 0;
+
 }
 
 .main-header > div {
@@ -23,6 +27,12 @@ body {
     font-size: 22px;
     font-weight: bold;
     text-decoration: none;
+    display: inline-block;
+    height: 22px;
+}
+
+.main-header__brand img {
+    height: 100%;
 }
 
 .main-nav {
