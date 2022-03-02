@@ -1,5 +1,5 @@
 # Description 
-I created this project website with Maximilian Schwarzmüller's HTML and CSS course on Udemy. It's a protuct landing page offering hosting services.
+I created this project website with Maximilian Schwarzmüller's HTML and CSS course on Udemy. It's a product landing page offering hosting services.
 
 ## Technologies 
 * HTML5
